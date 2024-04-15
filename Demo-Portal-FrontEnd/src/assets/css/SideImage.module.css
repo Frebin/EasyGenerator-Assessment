@@ -1,0 +1,12 @@
+.imgCard {
+    height: 70vh;
+    align-self: center;
+    max-width: 100% !important;
+}
+
+.welcome {
+    font-weight: 400 !important;
+    font-size: 1.15rem !important;
+    line-height: 1.875rem !important;
+    color: #828690 !important;
+}

@@ -1,0 +1,28 @@
+.propStyles {
+    font-size: 0.8rem !important;
+    margin-top: -0.5rem;
+}
+
+.labelStyle {
+    font-size: 0.65rem;
+    font-weight: 100;
+    margin: 0;
+    margin-bottom: -0.8rem;
+    text-align: left;
+}
+
+.black {
+    color: black;
+}
+
+.primary {
+    color: #6E6B7B;
+}
+
+.blockDisplay {
+    display: block;
+}
+
+.removeDisplay {
+    display: none !important;
+}
